@@ -1,0 +1,154 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bg{
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.overlay{
+    background-color: white;
+    opacity: 0.6;
+}
+
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    width: 100%;
+}
+
+section{
+    display: flex;
+    text-align: center;
+    font-weight: bold;
+    justify-content: center;
+    width: 100%;
+}
+
+.article1{
+    color: blue;
+    font-size: 25px;
+    margin-right: 150px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.article1 p{
+    margin-top: -20px;
+    color: black;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.article2{
+    color: blue;
+    font-size: 25px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.article2 p{
+    margin-top: -20px;
+    color: black;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.article3{
+    color: blue;
+    font-size: 25px;
+    margin-left: 150px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.article3 p{
+    margin-top: -20px;
+    color: black;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+/* section2 */
+
+.text2{
+    display: flex;
+    text-align: center;
+    font-weight: bold;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+}
+
+.articletext1{
+    width: 90%;
+    height: 100%;
+    float: left;
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.presentation1-1{
+    width: 100%;
+    font-size: 16px;
+}
+
+.articletext1 img{
+   height: 50px;
+   width: 50px;
+}
+
+.presentation1-2{
+    background-color: rgb(227, 74, 74);
+    color: white;
+    font-size: 14px;
+}
+
+
+.articletext2{
+    width: 90%;
+    height: 100%;
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.articletext2 p{
+    width: 100%;
+    text-align: center;
+}
+
+.articletext2 img{
+   height: 50px;
+   width: 50px;
+}
+
+
+.articletext3{
+    width: 90%;
+    height: 100%;
+    float: right;
+    background-color: white;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.articletext3 p{
+    width: 100%;
+    text-align: center;
+}
+
+.articletext3 img{
+   height: 50px;
+   width: 50px;
+}
